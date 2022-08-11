@@ -1,0 +1,2 @@
+# NeedForFeed_Website
+This Project aims to reduce the wastage of food by providing Both Selling and Donating Homemade food options, with this website, users can purchase the Homemade food, as well as sell and donate. Users can pay with Cash on delivery or through the Paypal payment gateway. With admin login, admin can delete and edit listed items and allow order status to move to the next stage. Tech Stack :- HTML, CSS, React, NextJs, MongoDB
